@@ -27,9 +27,13 @@ def get_response(input, type):
     if type == "firstaid":
         with open("./data/firstaid_intents.json") as file:
             data = json.load(file)
-    else:
-        with open("./data/firstaid_intents.json") as file:
+    elif type == "menstruation":
+        with open("./data/mensturation.json") as file:
             data = json.load(file)
+    else:
+        with open("./data/breast_cancer.json") as file:
+            data = json.load(file)
+
     
     words = []
     labels = []
@@ -85,10 +89,12 @@ def get_response(input, type):
 
     model = tflearn.DNN(net)
 
-    if type == "earthquake":
+    if type == "firstaid":
         model.load("./models/model_firstaid.tflearn")
+    elif type == "menstruation":
+        model.load("./models/model_menstruation.tflearn")
     else:
-        model.load("./models/model_firstaid.tflearn")
+        model.load("./models/model_breast_cancer.tflearn")
 
     results = model.predict([bag_of_words(input, words)])[0]
     results_index = numpy.argmax(results)
