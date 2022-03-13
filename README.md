@@ -2,6 +2,8 @@
 
 ## FemCare aims to provide women from all walks of life easy access to health care resources so they can receive the care they need without any constraints.
 
+![logo](https://user-images.githubusercontent.com/64074709/158043622-9a722ddf-7da7-4278-b8c7-7d78320225fd.png)
+
 ## Inspiration
 As young women, we noticed that mental and physical health is stigmatized and not talked about enough in our society.
 More often than not, women struggle in silence.  From our own experiences and the experiences of the women around us we have noticed a distinct lack of information and support.
@@ -24,7 +26,6 @@ app.py, base.html and chatbot.html - contain all our chatbot functionalities for
 We successfully created a fully functional and responsive website that allows users to login and get access to the resources they need. 
 We are most proud of the fact that we could built the entire thing in less than 24 hours!
 
-![logo](https://user-images.githubusercontent.com/64074709/158043622-9a722ddf-7da7-4278-b8c7-7d78320225fd.png)
 
 <img width="1498" alt="Screenshot 2022-03-13 at 8 50 29 AM" src="https://user-images.githubusercontent.com/64074709/158043582-fbca6d19-74d9-430b-9f54-b68368077e4e.png">
 <img width="1493" alt="Screenshot 2022-03-13 at 8 50 38 AM" src="https://user-images.githubusercontent.com/64074709/158043588-d033038b-5257-4fe2-add9-4302ff2241fc.png">
