@@ -1,0 +1,74 @@
+{"intents": [
+        {"tag": "Greetings",
+                "patterns": ["Hi", "Hey", "How are you", "Is anyone there?", "Hello", "Good day"],
+                "responses": ["Hi there, what can I do for you?"],
+                "context_set": ""
+        },
+
+        {"tag": "Definition",
+         "patterns": ["What is Menstruation?","What are periods?", "Explain Periods.", "Explain Mensturation.", "Definition of Periods."],
+         "responses":["Menstruation, or period, is normal vaginal bleeding that occurs as part of a woman's monthly cycle. Every month, your body prepares for pregnancy. If no pregnancy occurs, the uterus, or womb, sheds its lining. The menstrual blood is partly blood and partly tissue from inside the uterus."],
+         "context_set": ""
+        },
+
+        {"tag": "Missed Period",
+         "patterns": ["What If I Skip a Period?", "What if I missed a period?", "What would happen if I miss my period?", "Missing Periods", "missing mensturation", "Why did I miss my period?"],
+         "responses": ["Relax. It's normal for your period not to be normal -- especially in the first few years after starting your period . Stress, exercise, and sickness can all cause you to miss one. It can happen if you gain or lose a lot of weight. Of course, it can also happen if you're pregnant. If you skip more than two in a row, see your doctor."],
+         "context_set": ""
+        },
+
+        {"tag": "Heavy Periods",
+         "patterns": ["Is My Period Too Heavy?", "How to know to I'm bleeding too much?", "Am I losing too much blood during periods?", "Is my period flow too heavy?"],
+         "responses":["It's probably not as much as it seems. Most women lose about 3-4 tablespoons of blood each period. If you use more than 10 pads or tampons a day, or are soaking through a tampon or pad every hour, talk to your doctor."],
+         "context_set": ""
+        },
+
+        {"tag": "Length",
+         "patterns": ["How Long Should My Period Last?", "How long do periods last?", "Why is my period longer than 5 days?"],
+         "responses":["For most women, it goes on for 3 to 5 days. If that’s not you, don’t worry. One can last as few as 2 days of as many as 7. If you're bleeding more than 7 days in a row, talk to your doctor."],
+         "context_set": ""
+        },
+
+        {"tag": "Tampon",
+         "patterns": ["Why the Different Tampon Sizes?", "Can you please explain different tampon sizes?"],
+         "responses":["Ranging from light or slender to regular, super, and super plus, different tampons can absorb different amounts. Choose yours based on how much you're bleeding. Don't use a heavier tampon than you need. Remember to change your pads and tampons every 4 hours or so. Use a pad at night to lessen the growth of bacteria on your tampon."],
+         "context_set": ""
+        },
+
+        {"tag": "Pregnent",
+         "patterns": ["Can I Get Pregnant During My Period?", "Risk of pregenency during periods", "Is it possible to get pregnent during periods?", "Can I get pregnent while menstruation?"],
+         "responses": ["You can get pregnant at any time, even when you're bleeding. If you don't want that, talk to your doctor about using some type of birth control, no matter what time of the month it is. It's also important to protect yourself against STDs, so check with your doctor to make sure you're practicing safe sex."],
+         "context_set": ""
+        },
+
+        {"tag": "Cramps",
+         "patterns": ["How Do I Get Rid of Cramps?", "How to handle period cramps?", "What to do for menstrual cramps?"],
+         "responses": ["Try a pain reliever like acetaminophen, ibuprofen, or naproxen. You can also use a heating pad on your lower back or stomach. Increasing hydration and avoiding caffeine can help. And a warm bath might help you feel better, too."],
+         "context_set": ""
+        },
+
+        {"tag": "Bloated",
+         "patterns": ["Why Do I Feel So Full During My Period?"],
+         "responses": ["When it comes, your body can hold in water and make you feel bloated. When your jeans feel a little tight, cut the salt in your diet and skip the caffeine. It can also help to stay active."],
+         "context_set": ""
+        },
+
+        {"tag": "Tampon Usage",
+         "patterns": ["Does Using a Tampon Hurt?"],
+         "responses": ["Not for most women. Remember, your vagina is made to stretch (think childbirth). There should be plenty of room for a tampon to fit. If it hurts, don’t force it, especially if it's your first time using one. A lighter absorbency tampon may work better."],
+         "context_set": ""
+        },
+
+        {"tag": "Junk Food",
+         "patterns": ["Why Do I Crave Junk Food?"],
+         "responses": ["You may want to exercise, skip salty foods, and cut back on caffeine the week before your period. If your mood is still tricky, talk to your doctor. They may suggest you take medication."],
+         "context_set": ""
+        },
+
+        {"tag": "PMS",
+         "patterns": ["How Can I Control PMS Symptoms?", "How to handle PMS?", "What should I do for PMS?"],
+         "responses": ["You may want to exercise, skip salty foods, and cut back on caffeine the week before your period. If your mood is still tricky, talk to your doctor. They may suggest you take medication."],
+         "context_set": ""
+        }
+   ]
+}

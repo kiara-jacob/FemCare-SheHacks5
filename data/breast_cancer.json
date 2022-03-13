@@ -1,0 +1,47 @@
+{"intents": [
+        {"tag": "Definition",
+         "patterns": ["What is breast cancer?"],
+         "responses": ["Breast cancer is a common term for a cancerous (malignant) tumor that starts in the cells that line the ducts and/or lobules of the breast. Breast cancer is not one disease; rather it is several diseases that behave differently."],
+         "context_set": ""
+        },
+
+        {"tag": "Causes",
+         "patterns": ["What causes breast cancer?"],
+         "responses": ["Breast cancer’s causes are not exactly clear. Studies have identified numerous risk factors for breast cancer in women, including hormonal, lifestyle and environmental factors that may increase the risk of breast cancer. Other factors include: Increasing age, Personal history of breast cancer, Early menstruation, Late menopause, A first pregnancy after age 30 or no prior pregnancies, Use of oral contraceptives, Family history of breast cancer, Presence of certain inherited genetic changes, History of radiation therapy to the chest, Long-term use of combined hormone therapy , Alcohol use, Obesity after menopause. It's unclear why some people who have no risk factors develop cancer, while others with risk factors never do."],
+         "context_set": ""
+        },
+	
+	{"tag": "IBC",
+         "patterns": ["What is inflammatory breast cancer?"],
+         "responses": ["Considered a rare disease, inflammatory breast cancer (IBC) typically forms in the soft tissues, blocking lymph vessels in the breast skin. That's why the breast often becomes firm, tender, itchy, red and warm, from the increase in blood flow and a build-up of white blood cells. IBC differs from other forms of breast cancer, especially in symptoms, prognosis and treatment. The term “inflammatory” is not meant to reflect what's happening inside the breast, only in how the breast appears. When an infection or injury causes the breasts to become inflamed, they often become tender, swollen, red and itchy, but the underlying cause is not inflammation."],
+         "context_set": ""
+        },
+
+	{"tag": "Men",
+         "patterns": ["Can men get breast cancer?"],
+         "responses": ["Yes, it’s possible for men to get breast cancer. Anyone with breast tissue is capable of developing breast cancer. However, it’s less common, with about one out of every 100 breast cancer cases in the United States developing in men, according to the Centers for Disease Control and Prevention. Breast cancer in men is most often a type known as invasive ductal carcinoma (IDC), which begins in one of the breast ducts and spreads to other areas of the breast."],
+         "context_set": ""
+        },
+
+	{"tag": "Screening",
+         "patterns": ["When should I begin screening for breast cancer?"],
+         "responses": ["The American Cancer Society (ACS) recommends the following early-detection screenings for women at average risk for breast cancer: 1) Optional mammograms beginning at age 40 2) Annual mammograms for women ages 45 to 54 3) Mammograms every two years for women 55 and older, unless they choose to stick with yearly screenings 4) MRIs and mammograms for some women at high risk of breast cancer 5) The ACS also recommends that women know the benefits and potential harms associated with breast cancer screening, as well as how their breasts normally look and feel and report any changes to their doctor right away."],
+         "context_set": ""
+        },
+
+        {"tag": "Doctor",
+         "patterns": ["What type of doctor should I see if I think I have breast cancer?"],
+         "responses": [
+                "If you think you have breast cancer, you should talk to your primary care physician or OB/GYN. A number of doctors may play a role in your breast cancer treatment. The following is a list of doctors who may be involved in your care: 1) Medical oncologist: A physician who has special training in diagnosing and treating cancer using chemotherapy, hormonal therapy and targeted therapy 2) Surgical oncologist: A doctor who uses surgery to diagnose, stage and treat cancer and manage certain cancer-related symptoms, and who may perform biopsies and other surgical procedures such as removing a breast lump or the entire breast 3) Radiation oncologist: A physician trained in cancer treatment using radiation to shrink tumors and destroy cancer cells"
+         ],
+         "context_set": ""
+        },
+
+	{"tag": "Hurt",
+         "patterns": ["Does breast cancer hurt?"],
+         "responses": [
+                 "While breast cancer can sometimes be painful, it doesn’t always cause pain. You may notice discomfort and pain in your breasts and/or nipples, but these symptoms are often be caused by other health conditions, even your monthly menstrual cycle. Sudden pain is also associated with some benign breast conditions, such as mastitis and cysts. Visually examine and touch your breasts regularly, noting changes in how they appear or feel. If you notice that an area on or near your breast stays painful or seems unusual, see your doctor for answers."],
+         "context_set": ""
+        }
+   ]
+}
