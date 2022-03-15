@@ -1,6 +1,6 @@
 # FemCare
 
-# :star2: 2nd Place Overall
+# :star2: 2nd Place Overall - Built for SheHacks V
 
 ## FemCare aims to provide women from all walks of life easy access to health care resources so they can receive the care they need without any constraints.
 
