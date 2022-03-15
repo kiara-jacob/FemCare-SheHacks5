@@ -5,7 +5,7 @@
 ### Demo link: https://youtu.be/5uUbmnyvOho
 ### DevFolio: https://devfolio.co/submissions/shecare-5e75
 
-## FemCare aims to provide women from all walks of life easy access to health care resources so they can receive the care they need without any constraints.
+### FemCare aims to provide women from all walks of life easy access to health care resources so they can receive the care they need without any constraints.
 
 ![logo](https://user-images.githubusercontent.com/64074709/158043622-9a722ddf-7da7-4278-b8c7-7d78320225fd.png)
 
